@@ -36,11 +36,11 @@ To get started with these files:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/essential-math-for-dsa.git
+    git clone https://github.com/lokeshsuryawanshi/DSA-Mathematics.git
     ```
 2. **Navigate to the repository directory**:
     ```bash
-    cd essential-math-for-dsa
+    cd DSA-Mathematics
     ```
 
 ## 💻 How to Use
